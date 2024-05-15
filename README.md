@@ -16,4 +16,5 @@ Key questions that were answered during the analysis
 - What Industry have the highest valuation?
 - Are there any gaps in funding between health tech companies and edutech companies?
 
-### Results from the analysis                 
+### Results from the analysis
+<img width="348" alt="Unicorn_dashboard" src="https://github.com/Denike-analyst/unicorn_companies/assets/163006247/44465383-d311-46eb-9398-fa9c1ffb0994">
