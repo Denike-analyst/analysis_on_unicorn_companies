@@ -20,7 +20,6 @@ Key questions that were answered during the analysis
 <img width="348" alt="Unicorn_dashboard" src="https://github.com/Denike-analyst/unicorn_companies/assets/163006247/44465383-d311-46eb-9398-fa9c1ffb0994">
 
 
-[View Dashboard](https://eu.docworkspace.com/d/sIMGp7MfWAbexurIG)
 
 ### Observation
 - United States has the highest number of unicorn companies
