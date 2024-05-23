@@ -1,10 +1,10 @@
 # Analysis on unicorn_companies
 
 ## Project Overview
-This project aims to analyze the datasets of various unicorn companies across the world. Analyzing this data gave insights on countries with the highest valuation based on certain industries. It also gives insights on unicorns with most valuation based on industry.\
+This project aims to analyze the datasets of various unicorn companies across the world. Analyzing this data gave insights on countries with the highest valuation based on certain industries. It also gives insights on unicorns with most valuation based on industry.
 
 ### Data Sources
-The data used was from a sinle dataset table
+The data used was from a single dataset table: 
 
 ### Tools
 - Excel ( Data cleaning )
